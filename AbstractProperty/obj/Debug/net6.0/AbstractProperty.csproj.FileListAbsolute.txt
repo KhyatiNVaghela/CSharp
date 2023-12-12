@@ -1,0 +1,15 @@
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\bin\Debug\net6.0\AbstractProperty.exe
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\bin\Debug\net6.0\AbstractProperty.deps.json
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\bin\Debug\net6.0\AbstractProperty.runtimeconfig.json
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\bin\Debug\net6.0\AbstractProperty.dll
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\bin\Debug\net6.0\AbstractProperty.pdb
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.csproj.AssemblyReference.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.AssemblyInfoInputs.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.AssemblyInfo.cs
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.csproj.CoreCompileInputs.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.dll
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\refint\AbstractProperty.dll
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.pdb
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\AbstractProperty.genruntimeconfig.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\AbstractProperty\obj\Debug\net6.0\ref\AbstractProperty.dll
