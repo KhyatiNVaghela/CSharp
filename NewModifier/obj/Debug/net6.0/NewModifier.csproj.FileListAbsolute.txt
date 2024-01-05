@@ -1,0 +1,15 @@
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\bin\Debug\net6.0\NewModifier.exe
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\bin\Debug\net6.0\NewModifier.deps.json
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\bin\Debug\net6.0\NewModifier.runtimeconfig.json
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\bin\Debug\net6.0\NewModifier.dll
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\bin\Debug\net6.0\NewModifier.pdb
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.csproj.AssemblyReference.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.AssemblyInfoInputs.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.AssemblyInfo.cs
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.csproj.CoreCompileInputs.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.dll
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\refint\NewModifier.dll
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.pdb
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\NewModifier.genruntimeconfig.cache
+C:\Users\vaghe\OneDrive\Documents\GitRepo\c#\NewModifier\obj\Debug\net6.0\ref\NewModifier.dll
